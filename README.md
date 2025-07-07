@@ -33,7 +33,7 @@ This project uses the [MLX42](https://github.com/codam-coding-college/MLX42) lib
 
 1. Clone the repository **with submodules** (to include MLX42):
    ```sh
-   git clone --recurse-submodules <https://github.com/agerokhina/FDF.git>
+   git clone --recurse-submodules <https://github.com/agerokhina/fdf.git>
    cd fdf
    ```
    If you already cloned without `--recurse-submodules`, run:
